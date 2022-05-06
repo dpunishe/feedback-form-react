@@ -8,5 +8,3 @@ npm install
 ```
 npm run serve
 ```
-### info
-[alt text](public/Снимок экрана 2022-05-06 в 16.13.04.png)
